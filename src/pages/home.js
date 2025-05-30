@@ -44,16 +44,16 @@ function Home() {
       <section className="py-20 bg-gray-950 text-center px-6">
         <h2 className="text-3xl md:text-4xl font-bold mb-8 text-amber-400">Quem Somos</h2>
         <p className="max-w-4xl mx-auto text-gray-300 text-lg mb-12">
-          Somos referência no ensino de máquinas pesadas há mais de 10 anos, com foco total em prática, empregabilidade e certificação.
+          Somos referência no ensino de máquinas pesadas, com foco total em prática, empregabilidade e certificação.
         </p>
         <div className="grid md:grid-cols-3 gap-10 max-w-6xl mx-auto">
           <div className="bg-gray-800 p-6 rounded-xl shadow hover:scale-105 transition">
             <h3 className="text-xl font-bold mb-2 text-amber-400">Experiência Comprovada</h3>
-            <p className="text-gray-300">Mais de 5.000 alunos formados e atuando em grandes obras no Brasil inteiro.</p>
+            <p className="text-gray-300">Mais de 10.000 horas de experiência atuando em grandes obras no Brasil inteiro.</p>
           </div>
           <div className="bg-gray-800 p-6 rounded-xl shadow hover:scale-105 transition">
             <h3 className="text-xl font-bold mb-2 text-amber-400">Infraestrutura Real</h3>
-            <p className="text-gray-300">Equipamentos modernos e pátios amplos para treinamento 100% prático.</p>
+            <p className="text-gray-300">Equipamentos modernos e pátios amplos para treinamento prático.</p>
           </div>
           <div className="bg-gray-800 p-6 rounded-xl shadow hover:scale-105 transition">
             <h3 className="text-xl font-bold mb-2 text-amber-400">Foco em Emprego</h3>
