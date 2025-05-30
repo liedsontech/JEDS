@@ -7,10 +7,10 @@ function Header() {
     <header className="bg-gray-900 p-4 shadow-md flex justify-between items-center">
       <img src={logo} alt="Logo da Empresa" className="h-16" />
       <nav className="flex gap-4 text-sm">
-        <Link to="/home" className="text-white hover:text-amber-400 transition">
+        <Link to="/JEDS" className="text-white hover:text-amber-400 transition">
           Home
         </Link>
-        <Link to="/cursos" className="text-white hover:text-amber-400 transition">
+        <Link to="/JEDS/cursos" className="text-white hover:text-amber-400 transition">
           Cursos
         </Link>
       </nav>
